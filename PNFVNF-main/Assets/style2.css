@@ -1,0 +1,16 @@
+
+
+
+#en_tete {
+    color: whitesmoke;background-color: black;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    background-color: aquamarine;
+    background-position:center;
+    justify-content: space-between;
+
+
+}
